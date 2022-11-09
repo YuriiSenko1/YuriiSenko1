@@ -31,8 +31,9 @@
 
 
 ### Contact me
-[![Header](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27a09d)](https://t.me/yuris603)
 [![Header](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0073b1)](https://www.linkedin.com/in/yurii-senko/)
+[![Header](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27a09d)](https://t.me/yuris603)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriiSenko1&show_icons=true&theme=dark)
